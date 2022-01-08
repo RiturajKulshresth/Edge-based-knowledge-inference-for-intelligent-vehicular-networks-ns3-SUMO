@@ -18,5 +18,6 @@ Add the MAC address in the custom-application.cc file and change the number of n
 Next add the SendX function in the appropriate part of the custom-application 
 The mobility.tcl file that is being used rn is a snipped version of the complete file. 
 To get the complete mobility file follow the tutorials online(https://www.youtube.com/watch?v=i5dRnaG707c&t=1s)
-The OSM/SUMO files are present in the dated folder and can be used too
+The OSM/SUMO files are present in your dated folder and can be used too
 
+PS:If you dont get NS3 and/or SUMO spend a week just looking at the screen. It really helps.
