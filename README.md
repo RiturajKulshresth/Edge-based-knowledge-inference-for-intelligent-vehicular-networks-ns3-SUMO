@@ -21,6 +21,8 @@ The mobility.tcl file that is being used rn is a snipped version of the complete
 To get the complete mobility file follow the tutorials online(https://www.youtube.com/watch?v=i5dRnaG707c&t=1s)
 The OSM/SUMO files are present in your dated folder and can be used too
 
+Copy the wave-net-device.cc and wave-net-device.h file given to the directory that its supposed to be in (/ns-allinone-3.30.1/ns-3.30.1/src/wave/model/), replacing the original one its needed for sendXe function
+
 PS:If you dont get NS3 and/or SUMO spend a week just looking at the screen. It really helps.
 
 PPS: To understand the application:  https://www.youtube.com/channel/UC8GCZM8z4DW4DkaNHtzfpBg
