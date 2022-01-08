@@ -1,6 +1,7 @@
 # Edge-based-knowledge-inference-for-intelligent-vehicular-networks
 The objective of this project is to reduce the amount of data transferred between vehicles and Road-Side Units (RSUs), so as to reduce the processing power required at the RSUs and make it possible for the architecture to perform the required calculations irrespective of the network strength.
 
+NOTE: working with ns-3.30.1 (can't say if others will work)
 
 To Run the Application copy the Custom sumo folder to /ns-allinone-3.30.1/ns-3.30.1/scratch/ folder
 Then go to /ns-allinone-3.30.1/ns-3.30.1/ and run the command
